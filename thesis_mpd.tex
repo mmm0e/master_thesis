@@ -8,6 +8,7 @@
 \usepackage{tikz} %TeXで図を描きたい人用
 \usepackage{amsmath} %数式用
 \usepackage{titlesec} %chapterなどのタイトルフォントの大きさを調整したい時用
+\usepackage{pdfpages} % PDF挿入用のパッケージ
 
 % \titleformat{\chapter}[display]{\huge\bfseries}{第\ \thechapter \ 章}{40pt}{}[]
 %jsreportだとChapterのフォントサイズがデカくて恥ずかしいのでここで調整している
@@ -603,17 +604,38 @@ LINEのリアクション機能やスタンプ機能を使用する際、
 \cfoot{} %フッタ中央．ページ番号を表示
 % \rfoot{造形・メディアデザインコース} %フッタ右
 \renewcommand{\footrulewidth}{0.5pt} %フッタの罫線
-\titleformat{\chapter}[display]{\huge\bfseries}{付録\ \thechapter}{20pt}{}[]
-
-\chapter{インターネットアンケート画面}
-\section{象の卵に関するインターネットアンケート画面}
-\section{デザインした象の卵のインターネット評価アンケート画面}
 
 \titleformat{\chapter}[display]{\huge\bfseries}{付録\ \thechapter}{20pt}{}[]
 
-\chapter{インターネットアンケート画面}
-\section{象の卵に関するインターネットアンケート画面}
-\section{デザインした象の卵のインターネット評価アンケート画面}
+\chapter{予備調査　アンケート画面}
+
+\section{インターネットアンケート画面}
+
+
+\titleformat{\chapter}[display]{\huge\bfseries}{付録\ \thechapter}{20pt}{}[]
+
+\chapter{実験資料}
+
+\section{実験の説明}
+\includepdf[pages=-, scale=0.9]{PDF/setsumei.pdf} % PDFを挿入
+
+\section{実験の説明}
+\includepdf[pages=-, scale=0.9]{PDF/setsumei.pdf}
+
+\section{トークテーマ一覧}
+\includepdf[pages=-, scale=0.9]{PDF/talk_thema_ja.pdf}
+
+\section{アンケート①}
+\includepdf[pages=-, scale=0.9]{PDF/questionnaire_1_ja.pdf}
+
+\section{アンケート②}
+\includepdf[pages=-, scale=0.9]{PDF/questionnaire_2_ja.pdf}
+
+\section{同意書}
+\includepdf[pages=-, scale=0.9]{PDF/agreement.pdf}
+
+\section{同意撤回書}
+\includepdf[pages=-, scale=0.9]{PDF/withdrawal.pdf}
 
 %------ここまで付録
 
