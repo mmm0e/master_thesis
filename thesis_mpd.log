@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.12.4)  6 DEC 2024 03:42
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.12.4)  6 DEC 2024 10:35
  restricted system commands enabled.
  file:line:error style messages enabled.
 **c:/Users/m0e/Documents/GitHub/tex/thesis_mpd.tex
@@ -759,29 +759,64 @@ Package: titlesec 2023/10/27 v2.16 Sectioning titles
 \titlewidth=\dimen287
 \titlewidthlast=\dimen288
 \titlewidthfirst=\dimen289
+) (c:/texlive/2024/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+Package: pdfpages 2024/10/28 v0.6c Insert pages of external PDF documents (AM)
+ (c:/texlive/2024/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
+) (c:/texlive/2024/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2023/07/08 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count332
+\calc@Bcount=\count333
+\calc@Adimen=\dimen290
+\calc@Bdimen=\dimen291
+\calc@Askip=\skip100
+\calc@Bskip=\skip101
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count334
+\calc@Cskip=\skip102
+) (c:/texlive/2024/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+Package: eso-pic 2023/05/03 v3.0c eso-pic (RN)
+\ESO@tempdima=\dimen292
+\ESO@tempdimb=\dimen293
+)
+\AM@pagewidth=\dimen294
+\AM@pageheight=\dimen295
+\AM@fboxrule=\dimen296
+ (c:/texlive/2024/texmf-dist/tex/latex/pdfpages/ppluatex.def
+File: ppluatex.def 2024/10/28 v0.6c Pdfpages driver for LuaTeX (AM)
+)
+\pdfpages@includegraphics@status=\count335
+\AM@pagebox=\box85
+\AM@global@opts=\toks45
+\AM@pagecnt=\count336
+\AM@toc@title=\toks46
+\AM@lof@heading=\toks47
+\c@AM@survey=\count337
+\AM@templatesizebox=\box86
 ) (./thesis_mpd.aux)
 \openout1 = thesis_mpd.aux
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for JY3/mc/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for JT3/mc/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for JY3/mc/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for JT3/mc/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
 
 Package fontspec Info: 
 (fontspec)             Adjusting the maths setup (use [no-math] to avoid
@@ -789,111 +824,116 @@ Package fontspec Info:
 
 \symlegacymaths=\mathgroup5
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 37.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 37.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 37.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 37.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 37.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 37.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 37.
-LaTeX Font Info:    Redeclaring math accent \check on input line 37.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 37.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 37.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 37.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 37.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 37.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 37.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 37.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 37.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 37.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 37.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 37.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 37.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 37.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 37.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 37.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 37.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 38.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 38.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 38.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 38.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 38.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 38.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 38.
+LaTeX Font Info:    Redeclaring math accent \check on input line 38.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 38.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 38.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 38.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 38.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 38.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 38.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 38.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 38.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 38.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 38.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 38.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 38.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 38.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 38.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 38.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 38.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 37.
+(Font)              `operators' in the math version `normal' on input line 38.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> TU/lmr/m/n on input line 37.
+(Font)                  OT1/cmr/m/n --> TU/lmr/m/n on input line 38.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 37.
+(Font)              `operators' in the math version `bold' on input line 38.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> TU/lmr/m/n on input line 37.
+(Font)                  OT1/cmr/bx/n --> TU/lmr/m/n on input line 38.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  TU/lmr/m/n --> TU/lmr/m/n on input line 37.
+(Font)                  TU/lmr/m/n --> TU/lmr/m/n on input line 38.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> TU/lmr/m/it on input line 37.
+(Font)                  OT1/cmr/m/it --> TU/lmr/m/it on input line 38.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> TU/lmr/b/n on input line 37.
+(Font)                  OT1/cmr/bx/n --> TU/lmr/b/n on input line 38.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 37.
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 38.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 37.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 38.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  TU/lmr/m/n --> TU/lmr/b/n on input line 37.
+(Font)                  TU/lmr/m/n --> TU/lmr/b/n on input line 38.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> TU/lmr/b/it on input line 37.
+(Font)                  OT1/cmr/bx/it --> TU/lmr/b/it on input line 38.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 37.
+(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 38.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 37.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 38.
  (c:/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count332
-\scratchdimen=\dimen290
-\scratchbox=\box85
-\nofMPsegments=\count333
-\nofMParguments=\count334
-\everyMPshowfont=\toks45
-\MPscratchCnt=\count335
-\MPscratchDim=\dimen291
-\MPnumerator=\count336
-\makeMPintoPDFobject=\count337
-\everyMPtoPDFconversion=\toks46
+\scratchcounter=\count338
+\scratchdimen=\dimen297
+\scratchbox=\box87
+\nofMPsegments=\count339
+\nofMParguments=\count340
+\everyMPshowfont=\toks48
+\MPscratchCnt=\count341
+\MPscratchDim=\dimen298
+\MPnumerator=\count342
+\makeMPintoPDFobject=\count343
+\everyMPtoPDFconversion=\toks49
 ) (c:/texlive/2024/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
  (c:/texlive/2024/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+)) (c:/texlive/2024/texmf-dist/tex/latex/pdflscape/pdflscape.sty
+Package: pdflscape 2022-10-27 v0.13 Display of landscape pages in PDF
+ (c:/texlive/2024/texmf-dist/tex/latex/pdflscape/pdflscape-nometadata.sty
+Package: pdflscape-nometadata 2022-10-28 v0.13 Display of landscape pages in PDF (HO)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 ))(load cache: extra_lmroman17-regular.luc)
 LaTeX Font Info:    Font shape `JT3/mc/m/n' will be
-(Font)              scaled to size 19.17854pt on input line 44.
+(Font)              scaled to size 19.17854pt on input line 45.
 LaTeX Font Info:    Font shape `JY3/mc/m/n' will be
-(Font)              scaled to size 19.17854pt on input line 44.
+(Font)              scaled to size 19.17854pt on input line 45.
 (load cache: extra_lmroman12-bold.luc)
 LaTeX Font Info:    Font shape `JT3/mc/b/n' in size <20.74> not available
-(Font)              Font shape `JT3/gt/m/n' tried instead on input line 44.
+(Font)              Font shape `JT3/gt/m/n' tried instead on input line 45.
 LaTeX Font Info:    Font shape `JT3/gt/m/n' will be
-(Font)              scaled to size 17.51463pt on input line 44.
+(Font)              scaled to size 17.51463pt on input line 45.
 LaTeX Font Info:    Font shape `JY3/mc/b/n' in size <20.74> not available
-(Font)              Font shape `JY3/gt/m/n' tried instead on input line 44.
+(Font)              Font shape `JY3/gt/m/n' tried instead on input line 45.
 LaTeX Font Info:    Font shape `JY3/gt/m/n' will be
-(Font)              scaled to size 17.51463pt on input line 44.
-LaTeX Font Info:    Calculating math sizes for size <10.95001> on input line 48.
+(Font)              scaled to size 17.51463pt on input line 45.
+LaTeX Font Info:    Calculating math sizes for size <10.95001> on input line 49.
 (load cache: extra_lmroman7-regular.luc)(load cache: extra_lmroman5-regular.luc)
 LaTeX Font Info:    Font shape `JY3/mc/m/n' will be
-(Font)              scaled to size 6.47295pt on input line 48.
+(Font)              scaled to size 6.47295pt on input line 49.
 LaTeX Font Info:    Font shape `JY3/mc/m/n' will be
-(Font)              scaled to size 4.62357pt on input line 48.
+(Font)              scaled to size 4.62357pt on input line 49.
 (load cache: extra_lmroman12-regular.luc)
 LaTeX Font Info:    Font shape `JT3/mc/m/n' will be
-(Font)              scaled to size 11.09656pt on input line 51.
+(Font)              scaled to size 11.09656pt on input line 52.
 LaTeX Font Info:    Font shape `JY3/mc/m/n' will be
-(Font)              scaled to size 11.09656pt on input line 51.
+(Font)              scaled to size 11.09656pt on input line 52.
 LaTeX Font Info:    Font shape `JT3/mc/b/n' in size <14.39998> not available
-(Font)              Font shape `JT3/gt/m/n' tried instead on input line 52.
+(Font)              Font shape `JT3/gt/m/n' tried instead on input line 53.
 LaTeX Font Info:    Font shape `JT3/gt/m/n' will be
-(Font)              scaled to size 12.16057pt on input line 52.
+(Font)              scaled to size 12.16057pt on input line 53.
 LaTeX Font Info:    Font shape `JY3/mc/b/n' in size <14.39998> not available
-(Font)              Font shape `JY3/gt/m/n' tried instead on input line 52.
+(Font)              Font shape `JY3/gt/m/n' tried instead on input line 53.
 LaTeX Font Info:    Font shape `JY3/gt/m/n' will be
-(Font)              scaled to size 12.16057pt on input line 52.
+(Font)              scaled to size 12.16057pt on input line 53.
 LaTeX Font Info:    Font shape `JT3/mc/m/n' will be
-(Font)              scaled to size 13.31584pt on input line 60.
+(Font)              scaled to size 13.31584pt on input line 61.
 LaTeX Font Info:    Font shape `JY3/mc/m/n' will be
-(Font)              scaled to size 13.31584pt on input line 60.
+(Font)              scaled to size 13.31584pt on input line 61.
 
 
 [1
@@ -902,17 +942,17 @@ LaTeX Font Info:    Font shape `JY3/mc/m/n' will be
 
 [1]
 LaTeX Font Info:    Font shape `JT3/mc/m/n' will be
-(Font)              scaled to size 23.00685pt on input line 119.
+(Font)              scaled to size 23.00685pt on input line 120.
 LaTeX Font Info:    Font shape `JY3/mc/m/n' will be
-(Font)              scaled to size 23.00685pt on input line 119.
+(Font)              scaled to size 23.00685pt on input line 120.
 LaTeX Font Info:    Font shape `JT3/mc/b/n' in size <24.87999> not available
-(Font)              Font shape `JT3/gt/m/n' tried instead on input line 119.
+(Font)              Font shape `JT3/gt/m/n' tried instead on input line 120.
 LaTeX Font Info:    Font shape `JT3/gt/m/n' will be
-(Font)              scaled to size 21.01079pt on input line 119.
+(Font)              scaled to size 21.01079pt on input line 120.
 LaTeX Font Info:    Font shape `JY3/mc/b/n' in size <24.87999> not available
-(Font)              Font shape `JY3/gt/m/n' tried instead on input line 119.
+(Font)              Font shape `JY3/gt/m/n' tried instead on input line 120.
 LaTeX Font Info:    Font shape `JY3/gt/m/n' will be
-(Font)              scaled to size 21.01079pt on input line 119.
+(Font)              scaled to size 21.01079pt on input line 120.
  (./thesis_mpd.toc
 
 [1
@@ -938,18 +978,18 @@ LaTeX Font Info:    Font shape `JY3/gt/m/n' will be
 [4]
 第1章
 LaTeX Font Info:    Font shape `JT3/gt/m/n' will be
-(Font)              scaled to size 19.17854pt on input line 141.
+(Font)              scaled to size 19.17854pt on input line 142.
 LaTeX Font Info:    Font shape `JY3/gt/m/n' will be
-(Font)              scaled to size 19.17854pt on input line 141.
+(Font)              scaled to size 19.17854pt on input line 142.
 (load cache: extra_lmsans17-regular.luc)
 LaTeX Font Info:    Font shape `JT3/gt/m/n' will be
-(Font)              scaled to size 23.00685pt on input line 141.
+(Font)              scaled to size 23.00685pt on input line 142.
 LaTeX Font Info:    Font shape `JY3/gt/m/n' will be
-(Font)              scaled to size 23.00685pt on input line 141.
+(Font)              scaled to size 23.00685pt on input line 142.
 LaTeX Font Info:    Font shape `JT3/gt/m/n' will be
-(Font)              scaled to size 13.31584pt on input line 142.
+(Font)              scaled to size 13.31584pt on input line 143.
 LaTeX Font Info:    Font shape `JY3/gt/m/n' will be
-(Font)              scaled to size 13.31584pt on input line 142.
+(Font)              scaled to size 13.31584pt on input line 143.
 (load cache: extra_lmsans12-regular.luc)
 
 [1
@@ -962,14 +1002,14 @@ LaTeX Font Info:    Font shape `JY3/gt/m/n' will be
 [3]
 第2章
 LaTeX Font Info:    Font shape `JT3/gt/m/n' will be
-(Font)              scaled to size 11.09656pt on input line 210.
+(Font)              scaled to size 11.09656pt on input line 211.
 LaTeX Font Info:    Font shape `JY3/gt/m/n' will be
-(Font)              scaled to size 11.09656pt on input line 210.
+(Font)              scaled to size 11.09656pt on input line 211.
 (load cache: extra_lmmono10-regular.luc)
 LaTeX Font Info:    Font shape `JT3/gt/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 213.
+(Font)              scaled to size 9.24713pt on input line 214.
 LaTeX Font Info:    Font shape `JY3/gt/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 213.
+(Font)              scaled to size 9.24713pt on input line 214.
 
 
 [4
@@ -1000,9 +1040,9 @@ LaTeX Font Info:    Font shape `JY3/gt/m/n' will be
 
 ]
 LaTeX Font Info:    Font shape `JT3/mc/m/n' will be
-(Font)              scaled to size 8.32242pt on input line 342.
+(Font)              scaled to size 8.32242pt on input line 343.
 LaTeX Font Info:    Font shape `JY3/mc/m/n' will be
-(Font)              scaled to size 8.32242pt on input line 342.
+(Font)              scaled to size 8.32242pt on input line 343.
 
 
 [11]
@@ -1012,7 +1052,7 @@ warning  (file elephants.pdf) (pdf inclusion): PDF inclusion: found PDF version 
 <elephants.pdf, id=71, 1388.18625pt x 925.4575pt>
 File: elephants.pdf Graphic file (type pdf)
 <use elephants.pdf>
-Package luatex.def Info: elephants.pdf  used on input line 390.
+Package luatex.def Info: elephants.pdf  used on input line 391.
 (luatex.def)             Requested size: 284.52756pt x 189.67764pt.
 
 
@@ -1020,7 +1060,7 @@ Package luatex.def Info: elephants.pdf  used on input line 390.
 <hoca_groenlandica.pdf, id=78, 548.0475pt x 410.53375pt>
 File: hoca_groenlandica.pdf Graphic file (type pdf)
 <use hoca_groenlandica.pdf>
-Package luatex.def Info: hoca_groenlandica.pdf  used on input line 443.
+Package luatex.def Info: hoca_groenlandica.pdf  used on input line 444.
 (luatex.def)             Requested size: 284.52756pt x 213.1405pt.
 
 
@@ -1056,10 +1096,409 @@ Package luatex.def Info: hoca_groenlandica.pdf  used on input line 443.
 ]
 付録B
 
+warning  (file PDF/setsumei.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.6', but at most version '1.5' allowed
+<PDF/setsumei.pdf, id=113, 597.55244pt x 845.0772pt>
+File: PDF/setsumei.pdf Graphic file (type pdf)
+<use PDF/setsumei.pdf>
+Package luatex.def Info: PDF/setsumei.pdf  used on input line 620.
+(luatex.def)             Requested size: 597.55098pt x 845.07513pt.
+
+warning  (file PDF/setsumei.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.6', but at most version '1.5' allowed
+File: PDF/setsumei.pdf Graphic file (type pdf)
+<use PDF/setsumei.pdf>
+Package luatex.def Info: PDF/setsumei.pdf  used on input line 620.
+(luatex.def)             Requested size: 597.55098pt x 845.07513pt.
+
+warning  (file PDF/setsumei.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.6', but at most version '1.5' allowed
+
+warning  (file PDF/setsumei.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.6', but at most version '1.5' allowed
+<PDF/setsumei.pdf, id=116, page=1, 597.55244pt x 845.0772pt>
+File: PDF/setsumei.pdf Graphic file (type pdf)
+<use PDF/setsumei.pdf, page 1>
+Package luatex.def Info: PDF/setsumei.pdf , page1 used on input line 620.
+(luatex.def)             Requested size: 597.55098pt x 845.07513pt.
+File: PDF/setsumei.pdf Graphic file (type pdf)
+<use PDF/setsumei.pdf, page 1>
+Package luatex.def Info: PDF/setsumei.pdf , page1 used on input line 620.
+(luatex.def)             Requested size: 537.79222pt x 760.56245pt.
+
 
 [22
 
-] (./thesis_mpd.aux)
+]
+File: PDF/setsumei.pdf Graphic file (type pdf)
+<use PDF/setsumei.pdf, page 1>
+Package luatex.def Info: PDF/setsumei.pdf , page1 used on input line 620.
+(luatex.def)             Requested size: 537.79222pt x 760.56245pt.
+File: PDF/setsumei.pdf Graphic file (type pdf)
+<use PDF/setsumei.pdf, page 1>
+Package luatex.def Info: PDF/setsumei.pdf , page1 used on input line 620.
+(luatex.def)             Requested size: 537.79222pt x 760.56245pt.
+
+
+File: PDF/setsumei.pdf Graphic file (type pdf)
+<use PDF/setsumei.pdf, page 1>
+Package luatex.def Info: PDF/setsumei.pdf , page1 used on input line 620.
+(luatex.def)             Requested size: 537.79222pt x 760.56245pt.
+[23
+
+<./PDF/setsumei.pdf>]
+warning  (file PDF/setsumei.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.6', but at most version '1.5' allowed
+<PDF/setsumei.pdf, id=151, page=2, 597.55244pt x 845.0772pt>
+File: PDF/setsumei.pdf Graphic file (type pdf)
+<use PDF/setsumei.pdf, page 2>
+Package luatex.def Info: PDF/setsumei.pdf , page2 used on input line 620.
+(luatex.def)             Requested size: 537.79222pt x 760.56245pt.
+File: PDF/setsumei.pdf Graphic file (type pdf)
+<use PDF/setsumei.pdf, page 2>
+Package luatex.def Info: PDF/setsumei.pdf , page2 used on input line 620.
+(luatex.def)             Requested size: 537.79222pt x 760.56245pt.
+
+
+File: PDF/setsumei.pdf Graphic file (type pdf)
+<use PDF/setsumei.pdf, page 2>
+Package luatex.def Info: PDF/setsumei.pdf , page2 used on input line 620.
+(luatex.def)             Requested size: 537.79222pt x 760.56245pt.
+[24
+
+<./PDF/setsumei.pdf>]
+warning  (file PDF/setsumei.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.6', but at most version '1.5' allowed
+<PDF/setsumei.pdf, id=155, page=3, 597.55244pt x 845.0772pt>
+File: PDF/setsumei.pdf Graphic file (type pdf)
+<use PDF/setsumei.pdf, page 3>
+Package luatex.def Info: PDF/setsumei.pdf , page3 used on input line 620.
+(luatex.def)             Requested size: 537.79222pt x 760.56245pt.
+File: PDF/setsumei.pdf Graphic file (type pdf)
+<use PDF/setsumei.pdf, page 3>
+Package luatex.def Info: PDF/setsumei.pdf , page3 used on input line 620.
+(luatex.def)             Requested size: 537.79222pt x 760.56245pt.
+
+
+File: PDF/setsumei.pdf Graphic file (type pdf)
+<use PDF/setsumei.pdf, page 3>
+Package luatex.def Info: PDF/setsumei.pdf , page3 used on input line 620.
+(luatex.def)             Requested size: 537.79222pt x 760.56245pt.
+[25
+
+<./PDF/setsumei.pdf>]
+File: PDF/setsumei.pdf Graphic file (type pdf)
+<use PDF/setsumei.pdf>
+Package luatex.def Info: PDF/setsumei.pdf  used on input line 623.
+(luatex.def)             Requested size: 597.55098pt x 845.07513pt.
+
+warning  (file PDF/setsumei.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.6', but at most version '1.5' allowed
+File: PDF/setsumei.pdf Graphic file (type pdf)
+<use PDF/setsumei.pdf>
+Package luatex.def Info: PDF/setsumei.pdf  used on input line 623.
+(luatex.def)             Requested size: 597.55098pt x 845.07513pt.
+
+warning  (file PDF/setsumei.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.6', but at most version '1.5' allowed
+File: PDF/setsumei.pdf Graphic file (type pdf)
+<use PDF/setsumei.pdf, page 1>
+Package luatex.def Info: PDF/setsumei.pdf , page1 used on input line 623.
+(luatex.def)             Requested size: 597.55098pt x 845.07513pt.
+File: PDF/setsumei.pdf Graphic file (type pdf)
+<use PDF/setsumei.pdf, page 1>
+Package luatex.def Info: PDF/setsumei.pdf , page1 used on input line 623.
+(luatex.def)             Requested size: 537.79222pt x 760.56245pt.
+
+
+[26]
+File: PDF/setsumei.pdf Graphic file (type pdf)
+<use PDF/setsumei.pdf, page 1>
+Package luatex.def Info: PDF/setsumei.pdf , page1 used on input line 623.
+(luatex.def)             Requested size: 537.79222pt x 760.56245pt.
+File: PDF/setsumei.pdf Graphic file (type pdf)
+<use PDF/setsumei.pdf, page 1>
+Package luatex.def Info: PDF/setsumei.pdf , page1 used on input line 623.
+(luatex.def)             Requested size: 537.79222pt x 760.56245pt.
+
+
+File: PDF/setsumei.pdf Graphic file (type pdf)
+<use PDF/setsumei.pdf, page 1>
+Package luatex.def Info: PDF/setsumei.pdf , page1 used on input line 623.
+(luatex.def)             Requested size: 537.79222pt x 760.56245pt.
+[27
+
+]
+File: PDF/setsumei.pdf Graphic file (type pdf)
+<use PDF/setsumei.pdf, page 2>
+Package luatex.def Info: PDF/setsumei.pdf , page2 used on input line 623.
+(luatex.def)             Requested size: 537.79222pt x 760.56245pt.
+File: PDF/setsumei.pdf Graphic file (type pdf)
+<use PDF/setsumei.pdf, page 2>
+Package luatex.def Info: PDF/setsumei.pdf , page2 used on input line 623.
+(luatex.def)             Requested size: 537.79222pt x 760.56245pt.
+
+
+File: PDF/setsumei.pdf Graphic file (type pdf)
+<use PDF/setsumei.pdf, page 2>
+Package luatex.def Info: PDF/setsumei.pdf , page2 used on input line 623.
+(luatex.def)             Requested size: 537.79222pt x 760.56245pt.
+[28
+
+]
+File: PDF/setsumei.pdf Graphic file (type pdf)
+<use PDF/setsumei.pdf, page 3>
+Package luatex.def Info: PDF/setsumei.pdf , page3 used on input line 623.
+(luatex.def)             Requested size: 537.79222pt x 760.56245pt.
+File: PDF/setsumei.pdf Graphic file (type pdf)
+<use PDF/setsumei.pdf, page 3>
+Package luatex.def Info: PDF/setsumei.pdf , page3 used on input line 623.
+(luatex.def)             Requested size: 537.79222pt x 760.56245pt.
+
+
+File: PDF/setsumei.pdf Graphic file (type pdf)
+<use PDF/setsumei.pdf, page 3>
+Package luatex.def Info: PDF/setsumei.pdf , page3 used on input line 623.
+(luatex.def)             Requested size: 537.79222pt x 760.56245pt.
+[29
+
+]
+warning  (file PDF/talk_thema_ja.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.6', but at most version '1.5' allowed
+<PDF/talk_thema_ja.pdf, id=174, 597.432pt x 845.0772pt>
+File: PDF/talk_thema_ja.pdf Graphic file (type pdf)
+<use PDF/talk_thema_ja.pdf>
+Package luatex.def Info: PDF/talk_thema_ja.pdf  used on input line 626.
+(luatex.def)             Requested size: 597.43054pt x 845.07513pt.
+
+warning  (file PDF/talk_thema_ja.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.6', but at most version '1.5' allowed
+File: PDF/talk_thema_ja.pdf Graphic file (type pdf)
+<use PDF/talk_thema_ja.pdf>
+Package luatex.def Info: PDF/talk_thema_ja.pdf  used on input line 626.
+(luatex.def)             Requested size: 597.43054pt x 845.07513pt.
+
+warning  (file PDF/talk_thema_ja.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.6', but at most version '1.5' allowed
+
+warning  (file PDF/talk_thema_ja.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.6', but at most version '1.5' allowed
+<PDF/talk_thema_ja.pdf, id=177, page=1, 597.432pt x 845.0772pt>
+File: PDF/talk_thema_ja.pdf Graphic file (type pdf)
+<use PDF/talk_thema_ja.pdf, page 1>
+Package luatex.def Info: PDF/talk_thema_ja.pdf , page1 used on input line 626.
+(luatex.def)             Requested size: 597.43054pt x 845.07513pt.
+File: PDF/talk_thema_ja.pdf Graphic file (type pdf)
+<use PDF/talk_thema_ja.pdf, page 1>
+Package luatex.def Info: PDF/talk_thema_ja.pdf , page1 used on input line 626.
+(luatex.def)             Requested size: 537.68384pt x 760.56245pt.
+
+
+[30]
+File: PDF/talk_thema_ja.pdf Graphic file (type pdf)
+<use PDF/talk_thema_ja.pdf, page 1>
+Package luatex.def Info: PDF/talk_thema_ja.pdf , page1 used on input line 626.
+(luatex.def)             Requested size: 537.68384pt x 760.56245pt.
+File: PDF/talk_thema_ja.pdf Graphic file (type pdf)
+<use PDF/talk_thema_ja.pdf, page 1>
+Package luatex.def Info: PDF/talk_thema_ja.pdf , page1 used on input line 626.
+(luatex.def)             Requested size: 537.68384pt x 760.56245pt.
+
+
+File: PDF/talk_thema_ja.pdf Graphic file (type pdf)
+<use PDF/talk_thema_ja.pdf, page 1>
+Package luatex.def Info: PDF/talk_thema_ja.pdf , page1 used on input line 626.
+(luatex.def)             Requested size: 537.68384pt x 760.56245pt.
+[31
+
+<./PDF/talk_thema_ja.pdf>]
+warning  (file PDF/questionnaire_1_ja.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.6', but at most version '1.5' allowed
+<PDF/questionnaire_1_ja.pdf, id=201, 597.55244pt x 845.0772pt>
+File: PDF/questionnaire_1_ja.pdf Graphic file (type pdf)
+<use PDF/questionnaire_1_ja.pdf>
+Package luatex.def Info: PDF/questionnaire_1_ja.pdf  used on input line 629.
+(luatex.def)             Requested size: 597.55098pt x 845.07513pt.
+
+warning  (file PDF/questionnaire_1_ja.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.6', but at most version '1.5' allowed
+File: PDF/questionnaire_1_ja.pdf Graphic file (type pdf)
+<use PDF/questionnaire_1_ja.pdf>
+Package luatex.def Info: PDF/questionnaire_1_ja.pdf  used on input line 629.
+(luatex.def)             Requested size: 597.55098pt x 845.07513pt.
+
+warning  (file PDF/questionnaire_1_ja.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.6', but at most version '1.5' allowed
+
+warning  (file PDF/questionnaire_1_ja.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.6', but at most version '1.5' allowed
+<PDF/questionnaire_1_ja.pdf, id=204, page=1, 597.55244pt x 845.0772pt>
+File: PDF/questionnaire_1_ja.pdf Graphic file (type pdf)
+<use PDF/questionnaire_1_ja.pdf, page 1>
+Package luatex.def Info: PDF/questionnaire_1_ja.pdf , page1 used on input line 629.
+(luatex.def)             Requested size: 597.55098pt x 845.07513pt.
+File: PDF/questionnaire_1_ja.pdf Graphic file (type pdf)
+<use PDF/questionnaire_1_ja.pdf, page 1>
+Package luatex.def Info: PDF/questionnaire_1_ja.pdf , page1 used on input line 629.
+(luatex.def)             Requested size: 537.79222pt x 760.56245pt.
+
+
+[32]
+File: PDF/questionnaire_1_ja.pdf Graphic file (type pdf)
+<use PDF/questionnaire_1_ja.pdf, page 1>
+Package luatex.def Info: PDF/questionnaire_1_ja.pdf , page1 used on input line 629.
+(luatex.def)             Requested size: 537.79222pt x 760.56245pt.
+File: PDF/questionnaire_1_ja.pdf Graphic file (type pdf)
+<use PDF/questionnaire_1_ja.pdf, page 1>
+Package luatex.def Info: PDF/questionnaire_1_ja.pdf , page1 used on input line 629.
+(luatex.def)             Requested size: 537.79222pt x 760.56245pt.
+
+
+File: PDF/questionnaire_1_ja.pdf Graphic file (type pdf)
+<use PDF/questionnaire_1_ja.pdf, page 1>
+Package luatex.def Info: PDF/questionnaire_1_ja.pdf , page1 used on input line 629.
+(luatex.def)             Requested size: 537.79222pt x 760.56245pt.
+[33
+
+<./PDF/questionnaire_1_ja.pdf>]
+warning  (file PDF/questionnaire_2_ja.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.6', but at most version '1.5' allowed
+<PDF/questionnaire_2_ja.pdf, id=255, 597.55244pt x 845.0772pt>
+File: PDF/questionnaire_2_ja.pdf Graphic file (type pdf)
+<use PDF/questionnaire_2_ja.pdf>
+Package luatex.def Info: PDF/questionnaire_2_ja.pdf  used on input line 632.
+(luatex.def)             Requested size: 597.55098pt x 845.07513pt.
+
+warning  (file PDF/questionnaire_2_ja.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.6', but at most version '1.5' allowed
+File: PDF/questionnaire_2_ja.pdf Graphic file (type pdf)
+<use PDF/questionnaire_2_ja.pdf>
+Package luatex.def Info: PDF/questionnaire_2_ja.pdf  used on input line 632.
+(luatex.def)             Requested size: 597.55098pt x 845.07513pt.
+
+warning  (file PDF/questionnaire_2_ja.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.6', but at most version '1.5' allowed
+
+warning  (file PDF/questionnaire_2_ja.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.6', but at most version '1.5' allowed
+<PDF/questionnaire_2_ja.pdf, id=258, page=1, 597.55244pt x 845.0772pt>
+File: PDF/questionnaire_2_ja.pdf Graphic file (type pdf)
+<use PDF/questionnaire_2_ja.pdf, page 1>
+Package luatex.def Info: PDF/questionnaire_2_ja.pdf , page1 used on input line 632.
+(luatex.def)             Requested size: 597.55098pt x 845.07513pt.
+File: PDF/questionnaire_2_ja.pdf Graphic file (type pdf)
+<use PDF/questionnaire_2_ja.pdf, page 1>
+Package luatex.def Info: PDF/questionnaire_2_ja.pdf , page1 used on input line 632.
+(luatex.def)             Requested size: 537.79222pt x 760.56245pt.
+
+
+[34]
+File: PDF/questionnaire_2_ja.pdf Graphic file (type pdf)
+<use PDF/questionnaire_2_ja.pdf, page 1>
+Package luatex.def Info: PDF/questionnaire_2_ja.pdf , page1 used on input line 632.
+(luatex.def)             Requested size: 537.79222pt x 760.56245pt.
+File: PDF/questionnaire_2_ja.pdf Graphic file (type pdf)
+<use PDF/questionnaire_2_ja.pdf, page 1>
+Package luatex.def Info: PDF/questionnaire_2_ja.pdf , page1 used on input line 632.
+(luatex.def)             Requested size: 537.79222pt x 760.56245pt.
+
+
+File: PDF/questionnaire_2_ja.pdf Graphic file (type pdf)
+<use PDF/questionnaire_2_ja.pdf, page 1>
+Package luatex.def Info: PDF/questionnaire_2_ja.pdf , page1 used on input line 632.
+(luatex.def)             Requested size: 537.79222pt x 760.56245pt.
+[35
+
+<./PDF/questionnaire_2_ja.pdf>]
+warning  (file PDF/questionnaire_2_ja.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.6', but at most version '1.5' allowed
+<PDF/questionnaire_2_ja.pdf, id=310, page=2, 597.55244pt x 845.0772pt>
+File: PDF/questionnaire_2_ja.pdf Graphic file (type pdf)
+<use PDF/questionnaire_2_ja.pdf, page 2>
+Package luatex.def Info: PDF/questionnaire_2_ja.pdf , page2 used on input line 632.
+(luatex.def)             Requested size: 537.79222pt x 760.56245pt.
+File: PDF/questionnaire_2_ja.pdf Graphic file (type pdf)
+<use PDF/questionnaire_2_ja.pdf, page 2>
+Package luatex.def Info: PDF/questionnaire_2_ja.pdf , page2 used on input line 632.
+(luatex.def)             Requested size: 537.79222pt x 760.56245pt.
+
+
+File: PDF/questionnaire_2_ja.pdf Graphic file (type pdf)
+<use PDF/questionnaire_2_ja.pdf, page 2>
+Package luatex.def Info: PDF/questionnaire_2_ja.pdf , page2 used on input line 632.
+(luatex.def)             Requested size: 537.79222pt x 760.56245pt.
+[36
+
+<./PDF/questionnaire_2_ja.pdf>]
+warning  (file PDF/agreement.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.6', but at most version '1.5' allowed
+<PDF/agreement.pdf, id=314, 597.55244pt x 845.0772pt>
+File: PDF/agreement.pdf Graphic file (type pdf)
+<use PDF/agreement.pdf>
+Package luatex.def Info: PDF/agreement.pdf  used on input line 635.
+(luatex.def)             Requested size: 597.55098pt x 845.07513pt.
+
+warning  (file PDF/agreement.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.6', but at most version '1.5' allowed
+File: PDF/agreement.pdf Graphic file (type pdf)
+<use PDF/agreement.pdf>
+Package luatex.def Info: PDF/agreement.pdf  used on input line 635.
+(luatex.def)             Requested size: 597.55098pt x 845.07513pt.
+
+warning  (file PDF/agreement.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.6', but at most version '1.5' allowed
+
+warning  (file PDF/agreement.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.6', but at most version '1.5' allowed
+<PDF/agreement.pdf, id=317, page=1, 597.55244pt x 845.0772pt>
+File: PDF/agreement.pdf Graphic file (type pdf)
+<use PDF/agreement.pdf, page 1>
+Package luatex.def Info: PDF/agreement.pdf , page1 used on input line 635.
+(luatex.def)             Requested size: 597.55098pt x 845.07513pt.
+File: PDF/agreement.pdf Graphic file (type pdf)
+<use PDF/agreement.pdf, page 1>
+Package luatex.def Info: PDF/agreement.pdf , page1 used on input line 635.
+(luatex.def)             Requested size: 537.79222pt x 760.56245pt.
+
+
+[37]
+File: PDF/agreement.pdf Graphic file (type pdf)
+<use PDF/agreement.pdf, page 1>
+Package luatex.def Info: PDF/agreement.pdf , page1 used on input line 635.
+(luatex.def)             Requested size: 537.79222pt x 760.56245pt.
+File: PDF/agreement.pdf Graphic file (type pdf)
+<use PDF/agreement.pdf, page 1>
+Package luatex.def Info: PDF/agreement.pdf , page1 used on input line 635.
+(luatex.def)             Requested size: 537.79222pt x 760.56245pt.
+
+
+File: PDF/agreement.pdf Graphic file (type pdf)
+<use PDF/agreement.pdf, page 1>
+Package luatex.def Info: PDF/agreement.pdf , page1 used on input line 635.
+(luatex.def)             Requested size: 537.79222pt x 760.56245pt.
+[38
+
+<./PDF/agreement.pdf>]
+warning  (file PDF/withdrawal.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.6', but at most version '1.5' allowed
+<PDF/withdrawal.pdf, id=340, 597.55244pt x 845.19765pt>
+File: PDF/withdrawal.pdf Graphic file (type pdf)
+<use PDF/withdrawal.pdf>
+Package luatex.def Info: PDF/withdrawal.pdf  used on input line 638.
+(luatex.def)             Requested size: 597.55098pt x 845.19559pt.
+
+warning  (file PDF/withdrawal.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.6', but at most version '1.5' allowed
+File: PDF/withdrawal.pdf Graphic file (type pdf)
+<use PDF/withdrawal.pdf>
+Package luatex.def Info: PDF/withdrawal.pdf  used on input line 638.
+(luatex.def)             Requested size: 597.55098pt x 845.19559pt.
+
+warning  (file PDF/withdrawal.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.6', but at most version '1.5' allowed
+
+warning  (file PDF/withdrawal.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.6', but at most version '1.5' allowed
+<PDF/withdrawal.pdf, id=343, page=1, 597.55244pt x 845.19765pt>
+File: PDF/withdrawal.pdf Graphic file (type pdf)
+<use PDF/withdrawal.pdf, page 1>
+Package luatex.def Info: PDF/withdrawal.pdf , page1 used on input line 638.
+(luatex.def)             Requested size: 597.55098pt x 845.19559pt.
+File: PDF/withdrawal.pdf Graphic file (type pdf)
+<use PDF/withdrawal.pdf, page 1>
+Package luatex.def Info: PDF/withdrawal.pdf , page1 used on input line 638.
+(luatex.def)             Requested size: 537.79222pt x 760.67087pt.
+
+
+[39]
+File: PDF/withdrawal.pdf Graphic file (type pdf)
+<use PDF/withdrawal.pdf, page 1>
+Package luatex.def Info: PDF/withdrawal.pdf , page1 used on input line 638.
+(luatex.def)             Requested size: 537.79222pt x 760.67087pt.
+File: PDF/withdrawal.pdf Graphic file (type pdf)
+<use PDF/withdrawal.pdf, page 1>
+Package luatex.def Info: PDF/withdrawal.pdf , page1 used on input line 638.
+(luatex.def)             Requested size: 537.79222pt x 760.67087pt.
+
+
+File: PDF/withdrawal.pdf Graphic file (type pdf)
+<use PDF/withdrawal.pdf, page 1>
+Package luatex.def Info: PDF/withdrawal.pdf , page1 used on input line 638.
+(luatex.def)             Requested size: 537.79222pt x 760.67087pt.
+[40
+
+<./PDF/withdrawal.pdf>] (./thesis_mpd.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 1
 L3 programming layer <2024-11-02>
@@ -1067,19 +1506,19 @@ L3 programming layer <2024-11-02>
 )
 
 Here is how much of LuaTeX's memory you used:
- 19322 strings out of 475630
- 195703,1144653 words of node,token memory allocated
- 1273 words of node memory still in use:
-   10 hlist, 2 vlist, 5 rule, 2 glue, 4 kern, 1 glyph, 214 attribute, 93 glue_spec, 31 attribute_list, 2 write, 13 user_defined nodes
-   avail lists: 1:33,2:53019,3:2459,4:582,5:160,6:50,7:4584,8:56,9:2217,10:44,11:72
- 41648 multiletter control sequences out of 65536+600000
+ 20453 strings out of 475630
+ 195712,1144653 words of node,token memory allocated
+ 1283 words of node memory still in use:
+   10 hlist, 2 vlist, 5 rule, 2 glue, 4 kern, 1 glyph, 214 attribute, 95 glue_spec, 31 attribute_list, 2 write, 13 user_defined nodes
+   avail lists: 1:36,2:53260,3:2459,4:592,5:186,6:51,7:4592,8:56,9:2227,10:44,11:72
+ 42552 multiletter control sequences out of 65536+600000
  63 fonts using 64627951 bytes
- 125i,11n,128p,1918b,748s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 125i,18n,128p,1918b,755s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman9-regular.otf><c:/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmmono10-regular.otf><c:/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmsans12-regular.otf><c:/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmsans17-regular.otf><c:/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman10-regular.otf><c:/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman10-bold.otf><c:/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman12-bold.otf><c:/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman12-regular.otf><c:/texlive/2024/texmf-dist/fonts/opentype/public/haranoaji/HaranoAjiMincho-Regular.otf><c:/texlive/2024/texmf-dist/fonts/opentype/public/haranoaji/HaranoAjiGothic-Medium.otf><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on thesis_mpd.pdf (28 pages, 514066 bytes).
+Output written on thesis_mpd.pdf (46 pages, 1992848 bytes).
 
-PDF statistics: 192 PDF objects out of 1000 (max. 8388607)
- 120 compressed objects within 2 object streams
+PDF statistics: 446 PDF objects out of 1000 (max. 8388607)
+ 255 compressed objects within 3 object streams
  0 named destinations out of 1000 (max. 131072)
  26 words of extra memory for PDF output out of 10000 (max. 100000000)
 
