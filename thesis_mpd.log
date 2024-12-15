@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.12.4)  15 DEC 2024 05:39
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.12.4)  15 DEC 2024 09:46
  restricted system commands enabled.
  file:line:error style messages enabled.
 **c:/Users/m0e/Documents/GitHub/tex/thesis_mpd.tex
@@ -1063,447 +1063,486 @@ Package luatex.def Info: PDF/graph_1.png  used on input line 405.
 <./PDF/graph_1.png>]
 
 [11]
-<PDF/system_2.pdf, id=87, 845.04709pt x 597.50829pt>
+<PDF/zikken_gamen.jpg, id=87, 1308.89pt x 1260.71pt>
+File: PDF/zikken_gamen.jpg Graphic file (type jpg)
+<use PDF/zikken_gamen.jpg>
+Package luatex.def Info: PDF/zikken_gamen.jpg  used on input line 522.
+(luatex.def)             Requested size: 284.52756pt x 274.04832pt.
+<PDF/system_2.pdf, id=88, 845.04709pt x 597.50829pt>
 File: PDF/system_2.pdf Graphic file (type pdf)
 <use PDF/system_2.pdf>
-Package luatex.def Info: PDF/system_2.pdf  used on input line 521.
+Package luatex.def Info: PDF/system_2.pdf  used on input line 530.
 (luatex.def)             Requested size: 426.79134pt x 301.77121pt.
+<PDF/D414.png, id=89, 203.8014pt x 160.9212pt>
+File: PDF/D414.png Graphic file (type png)
+<use PDF/D414.png>
+Package luatex.def Info: PDF/D414.png  used on input line 552.
+(luatex.def)             Requested size: 284.52756pt x 224.68164pt.
 
 
 [12]
+<PDF/D518.jpg, id=93, 834.11626pt x 618.81187pt>
+File: PDF/D518.jpg Graphic file (type jpg)
+<use PDF/D518.jpg>
+Package luatex.def Info: PDF/D518.jpg  used on input line 560.
+(luatex.def)             Requested size: 284.52756pt x 211.08253pt.
+<PDF/zikke_kankyo.jpg, id=94, 1187.43625pt x 1388.18625pt>
+File: PDF/zikke_kankyo.jpg Graphic file (type jpg)
+<use PDF/zikke_kankyo.jpg>
+Package luatex.def Info: PDF/zikke_kankyo.jpg  used on input line 572.
+(luatex.def)             Requested size: 284.52756pt x 332.62077pt.
 
-[13<./PDF/system_2.pdf>]
 
-[14]
+[13<./PDF/zikken_gamen.jpg>]
+
+[14<./PDF/system_2.pdf><./PDF/D414.png>]
+
+[15<./PDF/D518.jpg><./PDF/zikke_kankyo.jpg>]
+<PDF/zikken_yousu.jpg, id=222, 1250.6725pt x 1318.9275pt>
+File: PDF/zikken_yousu.jpg Graphic file (type jpg)
+<use PDF/zikken_yousu.jpg>
+Package luatex.def Info: PDF/zikken_yousu.jpg  used on input line 613.
+(luatex.def)             Requested size: 284.52756pt x 300.04642pt.
+
+
+[16]
+
+[17<./PDF/zikken_yousu.jpg>]
+
+[18]
+
+[19]
 第4章
-
-
-[15
-
-]
-第5章
-
-
-[16
-
-]
-
-[17
-
-]
-
-[18
-
-]
-付録A
-
-
-[19
-
-]
-付録B
-
-warning  (file PDF/setsumei.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.6', but at most version '1.5' allowed
-<PDF/setsumei.pdf, id=231, 597.55244pt x 845.0772pt>
-File: PDF/setsumei.pdf Graphic file (type pdf)
-<use PDF/setsumei.pdf>
-Package luatex.def Info: PDF/setsumei.pdf  used on input line 727.
-(luatex.def)             Requested size: 597.55098pt x 845.07513pt.
-
-warning  (file PDF/setsumei.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.6', but at most version '1.5' allowed
-File: PDF/setsumei.pdf Graphic file (type pdf)
-<use PDF/setsumei.pdf>
-Package luatex.def Info: PDF/setsumei.pdf  used on input line 727.
-(luatex.def)             Requested size: 597.55098pt x 845.07513pt.
-
-warning  (file PDF/setsumei.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.6', but at most version '1.5' allowed
-
-warning  (file PDF/setsumei.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.6', but at most version '1.5' allowed
-<PDF/setsumei.pdf, id=234, page=1, 597.55244pt x 845.0772pt>
-File: PDF/setsumei.pdf Graphic file (type pdf)
-<use PDF/setsumei.pdf, page 1>
-Package luatex.def Info: PDF/setsumei.pdf , page1 used on input line 727.
-(luatex.def)             Requested size: 597.55098pt x 845.07513pt.
-File: PDF/setsumei.pdf Graphic file (type pdf)
-<use PDF/setsumei.pdf, page 1>
-Package luatex.def Info: PDF/setsumei.pdf , page1 used on input line 727.
-(luatex.def)             Requested size: 537.79222pt x 760.56245pt.
 
 
 [20
 
 ]
-File: PDF/setsumei.pdf Graphic file (type pdf)
-<use PDF/setsumei.pdf, page 1>
-Package luatex.def Info: PDF/setsumei.pdf , page1 used on input line 727.
-(luatex.def)             Requested size: 537.79222pt x 760.56245pt.
-File: PDF/setsumei.pdf Graphic file (type pdf)
-<use PDF/setsumei.pdf, page 1>
-Package luatex.def Info: PDF/setsumei.pdf , page1 used on input line 727.
-(luatex.def)             Requested size: 537.79222pt x 760.56245pt.
+第5章
 
 
-File: PDF/setsumei.pdf Graphic file (type pdf)
-<use PDF/setsumei.pdf, page 1>
-Package luatex.def Info: PDF/setsumei.pdf , page1 used on input line 727.
-(luatex.def)             Requested size: 537.79222pt x 760.56245pt.
 [21
 
-<./PDF/setsumei.pdf>]
-warning  (file PDF/setsumei.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.6', but at most version '1.5' allowed
-<PDF/setsumei.pdf, id=269, page=2, 597.55244pt x 845.0772pt>
-File: PDF/setsumei.pdf Graphic file (type pdf)
-<use PDF/setsumei.pdf, page 2>
-Package luatex.def Info: PDF/setsumei.pdf , page2 used on input line 727.
-(luatex.def)             Requested size: 537.79222pt x 760.56245pt.
-File: PDF/setsumei.pdf Graphic file (type pdf)
-<use PDF/setsumei.pdf, page 2>
-Package luatex.def Info: PDF/setsumei.pdf , page2 used on input line 727.
-(luatex.def)             Requested size: 537.79222pt x 760.56245pt.
+]
 
-
-File: PDF/setsumei.pdf Graphic file (type pdf)
-<use PDF/setsumei.pdf, page 2>
-Package luatex.def Info: PDF/setsumei.pdf , page2 used on input line 727.
-(luatex.def)             Requested size: 537.79222pt x 760.56245pt.
 [22
 
-<./PDF/setsumei.pdf>]
-warning  (file PDF/setsumei.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.6', but at most version '1.5' allowed
-<PDF/setsumei.pdf, id=273, page=3, 597.55244pt x 845.0772pt>
-File: PDF/setsumei.pdf Graphic file (type pdf)
-<use PDF/setsumei.pdf, page 3>
-Package luatex.def Info: PDF/setsumei.pdf , page3 used on input line 727.
-(luatex.def)             Requested size: 537.79222pt x 760.56245pt.
-File: PDF/setsumei.pdf Graphic file (type pdf)
-<use PDF/setsumei.pdf, page 3>
-Package luatex.def Info: PDF/setsumei.pdf , page3 used on input line 727.
-(luatex.def)             Requested size: 537.79222pt x 760.56245pt.
+]
 
-
-File: PDF/setsumei.pdf Graphic file (type pdf)
-<use PDF/setsumei.pdf, page 3>
-Package luatex.def Info: PDF/setsumei.pdf , page3 used on input line 727.
-(luatex.def)             Requested size: 537.79222pt x 760.56245pt.
 [23
 
-<./PDF/setsumei.pdf>]
-File: PDF/setsumei.pdf Graphic file (type pdf)
-<use PDF/setsumei.pdf>
-Package luatex.def Info: PDF/setsumei.pdf  used on input line 730.
-(luatex.def)             Requested size: 597.55098pt x 845.07513pt.
-
-warning  (file PDF/setsumei.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.6', but at most version '1.5' allowed
-File: PDF/setsumei.pdf Graphic file (type pdf)
-<use PDF/setsumei.pdf>
-Package luatex.def Info: PDF/setsumei.pdf  used on input line 730.
-(luatex.def)             Requested size: 597.55098pt x 845.07513pt.
-
-warning  (file PDF/setsumei.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.6', but at most version '1.5' allowed
-File: PDF/setsumei.pdf Graphic file (type pdf)
-<use PDF/setsumei.pdf, page 1>
-Package luatex.def Info: PDF/setsumei.pdf , page1 used on input line 730.
-(luatex.def)             Requested size: 597.55098pt x 845.07513pt.
-File: PDF/setsumei.pdf Graphic file (type pdf)
-<use PDF/setsumei.pdf, page 1>
-Package luatex.def Info: PDF/setsumei.pdf , page1 used on input line 730.
-(luatex.def)             Requested size: 537.79222pt x 760.56245pt.
-
+]
 
 [24]
-File: PDF/setsumei.pdf Graphic file (type pdf)
-<use PDF/setsumei.pdf, page 1>
-Package luatex.def Info: PDF/setsumei.pdf , page1 used on input line 730.
-(luatex.def)             Requested size: 537.79222pt x 760.56245pt.
-File: PDF/setsumei.pdf Graphic file (type pdf)
-<use PDF/setsumei.pdf, page 1>
-Package luatex.def Info: PDF/setsumei.pdf , page1 used on input line 730.
-(luatex.def)             Requested size: 537.79222pt x 760.56245pt.
+付録A
 
 
-File: PDF/setsumei.pdf Graphic file (type pdf)
-<use PDF/setsumei.pdf, page 1>
-Package luatex.def Info: PDF/setsumei.pdf , page1 used on input line 730.
-(luatex.def)             Requested size: 537.79222pt x 760.56245pt.
 [25
 
 ]
+付録B
+
+warning  (file PDF/setsumei.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.6', but at most version '1.5' allowed
+<PDF/setsumei.pdf, id=255, 597.55244pt x 845.0772pt>
 File: PDF/setsumei.pdf Graphic file (type pdf)
-<use PDF/setsumei.pdf, page 2>
-Package luatex.def Info: PDF/setsumei.pdf , page2 used on input line 730.
-(luatex.def)             Requested size: 537.79222pt x 760.56245pt.
+<use PDF/setsumei.pdf>
+Package luatex.def Info: PDF/setsumei.pdf  used on input line 886.
+(luatex.def)             Requested size: 597.55098pt x 845.07513pt.
+
+warning  (file PDF/setsumei.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.6', but at most version '1.5' allowed
 File: PDF/setsumei.pdf Graphic file (type pdf)
-<use PDF/setsumei.pdf, page 2>
-Package luatex.def Info: PDF/setsumei.pdf , page2 used on input line 730.
+<use PDF/setsumei.pdf>
+Package luatex.def Info: PDF/setsumei.pdf  used on input line 886.
+(luatex.def)             Requested size: 597.55098pt x 845.07513pt.
+
+warning  (file PDF/setsumei.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.6', but at most version '1.5' allowed
+
+warning  (file PDF/setsumei.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.6', but at most version '1.5' allowed
+<PDF/setsumei.pdf, id=258, page=1, 597.55244pt x 845.0772pt>
+File: PDF/setsumei.pdf Graphic file (type pdf)
+<use PDF/setsumei.pdf, page 1>
+Package luatex.def Info: PDF/setsumei.pdf , page1 used on input line 886.
+(luatex.def)             Requested size: 597.55098pt x 845.07513pt.
+File: PDF/setsumei.pdf Graphic file (type pdf)
+<use PDF/setsumei.pdf, page 1>
+Package luatex.def Info: PDF/setsumei.pdf , page1 used on input line 886.
 (luatex.def)             Requested size: 537.79222pt x 760.56245pt.
 
 
-File: PDF/setsumei.pdf Graphic file (type pdf)
-<use PDF/setsumei.pdf, page 2>
-Package luatex.def Info: PDF/setsumei.pdf , page2 used on input line 730.
-(luatex.def)             Requested size: 537.79222pt x 760.56245pt.
 [26
 
 ]
 File: PDF/setsumei.pdf Graphic file (type pdf)
-<use PDF/setsumei.pdf, page 3>
-Package luatex.def Info: PDF/setsumei.pdf , page3 used on input line 730.
+<use PDF/setsumei.pdf, page 1>
+Package luatex.def Info: PDF/setsumei.pdf , page1 used on input line 886.
 (luatex.def)             Requested size: 537.79222pt x 760.56245pt.
 File: PDF/setsumei.pdf Graphic file (type pdf)
-<use PDF/setsumei.pdf, page 3>
-Package luatex.def Info: PDF/setsumei.pdf , page3 used on input line 730.
+<use PDF/setsumei.pdf, page 1>
+Package luatex.def Info: PDF/setsumei.pdf , page1 used on input line 886.
 (luatex.def)             Requested size: 537.79222pt x 760.56245pt.
 
 
 File: PDF/setsumei.pdf Graphic file (type pdf)
-<use PDF/setsumei.pdf, page 3>
-Package luatex.def Info: PDF/setsumei.pdf , page3 used on input line 730.
+<use PDF/setsumei.pdf, page 1>
+Package luatex.def Info: PDF/setsumei.pdf , page1 used on input line 886.
 (luatex.def)             Requested size: 537.79222pt x 760.56245pt.
 [27
 
-]
-warning  (file PDF/talk_thema_ja.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.6', but at most version '1.5' allowed
-<PDF/talk_thema_ja.pdf, id=292, 597.432pt x 845.0772pt>
-File: PDF/talk_thema_ja.pdf Graphic file (type pdf)
-<use PDF/talk_thema_ja.pdf>
-Package luatex.def Info: PDF/talk_thema_ja.pdf  used on input line 733.
-(luatex.def)             Requested size: 597.43054pt x 845.07513pt.
-
-warning  (file PDF/talk_thema_ja.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.6', but at most version '1.5' allowed
-File: PDF/talk_thema_ja.pdf Graphic file (type pdf)
-<use PDF/talk_thema_ja.pdf>
-Package luatex.def Info: PDF/talk_thema_ja.pdf  used on input line 733.
-(luatex.def)             Requested size: 597.43054pt x 845.07513pt.
-
-warning  (file PDF/talk_thema_ja.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.6', but at most version '1.5' allowed
-
-warning  (file PDF/talk_thema_ja.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.6', but at most version '1.5' allowed
-<PDF/talk_thema_ja.pdf, id=295, page=1, 597.432pt x 845.0772pt>
-File: PDF/talk_thema_ja.pdf Graphic file (type pdf)
-<use PDF/talk_thema_ja.pdf, page 1>
-Package luatex.def Info: PDF/talk_thema_ja.pdf , page1 used on input line 733.
-(luatex.def)             Requested size: 597.43054pt x 845.07513pt.
-File: PDF/talk_thema_ja.pdf Graphic file (type pdf)
-<use PDF/talk_thema_ja.pdf, page 1>
-Package luatex.def Info: PDF/talk_thema_ja.pdf , page1 used on input line 733.
-(luatex.def)             Requested size: 537.68384pt x 760.56245pt.
+<./PDF/setsumei.pdf>]
+warning  (file PDF/setsumei.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.6', but at most version '1.5' allowed
+<PDF/setsumei.pdf, id=294, page=2, 597.55244pt x 845.0772pt>
+File: PDF/setsumei.pdf Graphic file (type pdf)
+<use PDF/setsumei.pdf, page 2>
+Package luatex.def Info: PDF/setsumei.pdf , page2 used on input line 886.
+(luatex.def)             Requested size: 537.79222pt x 760.56245pt.
+File: PDF/setsumei.pdf Graphic file (type pdf)
+<use PDF/setsumei.pdf, page 2>
+Package luatex.def Info: PDF/setsumei.pdf , page2 used on input line 886.
+(luatex.def)             Requested size: 537.79222pt x 760.56245pt.
 
 
-[28]
-File: PDF/talk_thema_ja.pdf Graphic file (type pdf)
-<use PDF/talk_thema_ja.pdf, page 1>
-Package luatex.def Info: PDF/talk_thema_ja.pdf , page1 used on input line 733.
-(luatex.def)             Requested size: 537.68384pt x 760.56245pt.
-File: PDF/talk_thema_ja.pdf Graphic file (type pdf)
-<use PDF/talk_thema_ja.pdf, page 1>
-Package luatex.def Info: PDF/talk_thema_ja.pdf , page1 used on input line 733.
-(luatex.def)             Requested size: 537.68384pt x 760.56245pt.
+File: PDF/setsumei.pdf Graphic file (type pdf)
+<use PDF/setsumei.pdf, page 2>
+Package luatex.def Info: PDF/setsumei.pdf , page2 used on input line 886.
+(luatex.def)             Requested size: 537.79222pt x 760.56245pt.
+[28
+
+<./PDF/setsumei.pdf>]
+warning  (file PDF/setsumei.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.6', but at most version '1.5' allowed
+<PDF/setsumei.pdf, id=298, page=3, 597.55244pt x 845.0772pt>
+File: PDF/setsumei.pdf Graphic file (type pdf)
+<use PDF/setsumei.pdf, page 3>
+Package luatex.def Info: PDF/setsumei.pdf , page3 used on input line 886.
+(luatex.def)             Requested size: 537.79222pt x 760.56245pt.
+File: PDF/setsumei.pdf Graphic file (type pdf)
+<use PDF/setsumei.pdf, page 3>
+Package luatex.def Info: PDF/setsumei.pdf , page3 used on input line 886.
+(luatex.def)             Requested size: 537.79222pt x 760.56245pt.
 
 
-File: PDF/talk_thema_ja.pdf Graphic file (type pdf)
-<use PDF/talk_thema_ja.pdf, page 1>
-Package luatex.def Info: PDF/talk_thema_ja.pdf , page1 used on input line 733.
-(luatex.def)             Requested size: 537.68384pt x 760.56245pt.
+File: PDF/setsumei.pdf Graphic file (type pdf)
+<use PDF/setsumei.pdf, page 3>
+Package luatex.def Info: PDF/setsumei.pdf , page3 used on input line 886.
+(luatex.def)             Requested size: 537.79222pt x 760.56245pt.
 [29
 
-<./PDF/talk_thema_ja.pdf>]
-warning  (file PDF/questionnaire_1_ja.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.6', but at most version '1.5' allowed
-<PDF/questionnaire_1_ja.pdf, id=318, 597.55244pt x 845.0772pt>
-File: PDF/questionnaire_1_ja.pdf Graphic file (type pdf)
-<use PDF/questionnaire_1_ja.pdf>
-Package luatex.def Info: PDF/questionnaire_1_ja.pdf  used on input line 736.
+<./PDF/setsumei.pdf>]
+File: PDF/setsumei.pdf Graphic file (type pdf)
+<use PDF/setsumei.pdf>
+Package luatex.def Info: PDF/setsumei.pdf  used on input line 889.
 (luatex.def)             Requested size: 597.55098pt x 845.07513pt.
 
-warning  (file PDF/questionnaire_1_ja.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.6', but at most version '1.5' allowed
-File: PDF/questionnaire_1_ja.pdf Graphic file (type pdf)
-<use PDF/questionnaire_1_ja.pdf>
-Package luatex.def Info: PDF/questionnaire_1_ja.pdf  used on input line 736.
+warning  (file PDF/setsumei.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.6', but at most version '1.5' allowed
+File: PDF/setsumei.pdf Graphic file (type pdf)
+<use PDF/setsumei.pdf>
+Package luatex.def Info: PDF/setsumei.pdf  used on input line 889.
 (luatex.def)             Requested size: 597.55098pt x 845.07513pt.
 
-warning  (file PDF/questionnaire_1_ja.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.6', but at most version '1.5' allowed
-
-warning  (file PDF/questionnaire_1_ja.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.6', but at most version '1.5' allowed
-<PDF/questionnaire_1_ja.pdf, id=321, page=1, 597.55244pt x 845.0772pt>
-File: PDF/questionnaire_1_ja.pdf Graphic file (type pdf)
-<use PDF/questionnaire_1_ja.pdf, page 1>
-Package luatex.def Info: PDF/questionnaire_1_ja.pdf , page1 used on input line 736.
+warning  (file PDF/setsumei.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.6', but at most version '1.5' allowed
+File: PDF/setsumei.pdf Graphic file (type pdf)
+<use PDF/setsumei.pdf, page 1>
+Package luatex.def Info: PDF/setsumei.pdf , page1 used on input line 889.
 (luatex.def)             Requested size: 597.55098pt x 845.07513pt.
-File: PDF/questionnaire_1_ja.pdf Graphic file (type pdf)
-<use PDF/questionnaire_1_ja.pdf, page 1>
-Package luatex.def Info: PDF/questionnaire_1_ja.pdf , page1 used on input line 736.
+File: PDF/setsumei.pdf Graphic file (type pdf)
+<use PDF/setsumei.pdf, page 1>
+Package luatex.def Info: PDF/setsumei.pdf , page1 used on input line 889.
 (luatex.def)             Requested size: 537.79222pt x 760.56245pt.
 
 
 [30]
-File: PDF/questionnaire_1_ja.pdf Graphic file (type pdf)
-<use PDF/questionnaire_1_ja.pdf, page 1>
-Package luatex.def Info: PDF/questionnaire_1_ja.pdf , page1 used on input line 736.
+File: PDF/setsumei.pdf Graphic file (type pdf)
+<use PDF/setsumei.pdf, page 1>
+Package luatex.def Info: PDF/setsumei.pdf , page1 used on input line 889.
 (luatex.def)             Requested size: 537.79222pt x 760.56245pt.
-File: PDF/questionnaire_1_ja.pdf Graphic file (type pdf)
-<use PDF/questionnaire_1_ja.pdf, page 1>
-Package luatex.def Info: PDF/questionnaire_1_ja.pdf , page1 used on input line 736.
+File: PDF/setsumei.pdf Graphic file (type pdf)
+<use PDF/setsumei.pdf, page 1>
+Package luatex.def Info: PDF/setsumei.pdf , page1 used on input line 889.
 (luatex.def)             Requested size: 537.79222pt x 760.56245pt.
 
 
-File: PDF/questionnaire_1_ja.pdf Graphic file (type pdf)
-<use PDF/questionnaire_1_ja.pdf, page 1>
-Package luatex.def Info: PDF/questionnaire_1_ja.pdf , page1 used on input line 736.
+File: PDF/setsumei.pdf Graphic file (type pdf)
+<use PDF/setsumei.pdf, page 1>
+Package luatex.def Info: PDF/setsumei.pdf , page1 used on input line 889.
 (luatex.def)             Requested size: 537.79222pt x 760.56245pt.
 [31
 
-<./PDF/questionnaire_1_ja.pdf>]
-warning  (file PDF/questionnaire_2_ja.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.6', but at most version '1.5' allowed
-<PDF/questionnaire_2_ja.pdf, id=373, 597.55244pt x 845.0772pt>
-File: PDF/questionnaire_2_ja.pdf Graphic file (type pdf)
-<use PDF/questionnaire_2_ja.pdf>
-Package luatex.def Info: PDF/questionnaire_2_ja.pdf  used on input line 739.
-(luatex.def)             Requested size: 597.55098pt x 845.07513pt.
-
-warning  (file PDF/questionnaire_2_ja.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.6', but at most version '1.5' allowed
-File: PDF/questionnaire_2_ja.pdf Graphic file (type pdf)
-<use PDF/questionnaire_2_ja.pdf>
-Package luatex.def Info: PDF/questionnaire_2_ja.pdf  used on input line 739.
-(luatex.def)             Requested size: 597.55098pt x 845.07513pt.
-
-warning  (file PDF/questionnaire_2_ja.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.6', but at most version '1.5' allowed
-
-warning  (file PDF/questionnaire_2_ja.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.6', but at most version '1.5' allowed
-<PDF/questionnaire_2_ja.pdf, id=376, page=1, 597.55244pt x 845.0772pt>
-File: PDF/questionnaire_2_ja.pdf Graphic file (type pdf)
-<use PDF/questionnaire_2_ja.pdf, page 1>
-Package luatex.def Info: PDF/questionnaire_2_ja.pdf , page1 used on input line 739.
-(luatex.def)             Requested size: 597.55098pt x 845.07513pt.
-File: PDF/questionnaire_2_ja.pdf Graphic file (type pdf)
-<use PDF/questionnaire_2_ja.pdf, page 1>
-Package luatex.def Info: PDF/questionnaire_2_ja.pdf , page1 used on input line 739.
+]
+File: PDF/setsumei.pdf Graphic file (type pdf)
+<use PDF/setsumei.pdf, page 2>
+Package luatex.def Info: PDF/setsumei.pdf , page2 used on input line 889.
+(luatex.def)             Requested size: 537.79222pt x 760.56245pt.
+File: PDF/setsumei.pdf Graphic file (type pdf)
+<use PDF/setsumei.pdf, page 2>
+Package luatex.def Info: PDF/setsumei.pdf , page2 used on input line 889.
 (luatex.def)             Requested size: 537.79222pt x 760.56245pt.
 
 
-[32]
-File: PDF/questionnaire_2_ja.pdf Graphic file (type pdf)
-<use PDF/questionnaire_2_ja.pdf, page 1>
-Package luatex.def Info: PDF/questionnaire_2_ja.pdf , page1 used on input line 739.
+File: PDF/setsumei.pdf Graphic file (type pdf)
+<use PDF/setsumei.pdf, page 2>
+Package luatex.def Info: PDF/setsumei.pdf , page2 used on input line 889.
 (luatex.def)             Requested size: 537.79222pt x 760.56245pt.
-File: PDF/questionnaire_2_ja.pdf Graphic file (type pdf)
-<use PDF/questionnaire_2_ja.pdf, page 1>
-Package luatex.def Info: PDF/questionnaire_2_ja.pdf , page1 used on input line 739.
+[32
+
+]
+File: PDF/setsumei.pdf Graphic file (type pdf)
+<use PDF/setsumei.pdf, page 3>
+Package luatex.def Info: PDF/setsumei.pdf , page3 used on input line 889.
+(luatex.def)             Requested size: 537.79222pt x 760.56245pt.
+File: PDF/setsumei.pdf Graphic file (type pdf)
+<use PDF/setsumei.pdf, page 3>
+Package luatex.def Info: PDF/setsumei.pdf , page3 used on input line 889.
 (luatex.def)             Requested size: 537.79222pt x 760.56245pt.
 
 
-File: PDF/questionnaire_2_ja.pdf Graphic file (type pdf)
-<use PDF/questionnaire_2_ja.pdf, page 1>
-Package luatex.def Info: PDF/questionnaire_2_ja.pdf , page1 used on input line 739.
+File: PDF/setsumei.pdf Graphic file (type pdf)
+<use PDF/setsumei.pdf, page 3>
+Package luatex.def Info: PDF/setsumei.pdf , page3 used on input line 889.
 (luatex.def)             Requested size: 537.79222pt x 760.56245pt.
 [33
 
+]
+warning  (file PDF/talk_thema_ja.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.6', but at most version '1.5' allowed
+<PDF/talk_thema_ja.pdf, id=316, 597.432pt x 845.0772pt>
+File: PDF/talk_thema_ja.pdf Graphic file (type pdf)
+<use PDF/talk_thema_ja.pdf>
+Package luatex.def Info: PDF/talk_thema_ja.pdf  used on input line 892.
+(luatex.def)             Requested size: 597.43054pt x 845.07513pt.
+
+warning  (file PDF/talk_thema_ja.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.6', but at most version '1.5' allowed
+File: PDF/talk_thema_ja.pdf Graphic file (type pdf)
+<use PDF/talk_thema_ja.pdf>
+Package luatex.def Info: PDF/talk_thema_ja.pdf  used on input line 892.
+(luatex.def)             Requested size: 597.43054pt x 845.07513pt.
+
+warning  (file PDF/talk_thema_ja.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.6', but at most version '1.5' allowed
+
+warning  (file PDF/talk_thema_ja.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.6', but at most version '1.5' allowed
+<PDF/talk_thema_ja.pdf, id=319, page=1, 597.432pt x 845.0772pt>
+File: PDF/talk_thema_ja.pdf Graphic file (type pdf)
+<use PDF/talk_thema_ja.pdf, page 1>
+Package luatex.def Info: PDF/talk_thema_ja.pdf , page1 used on input line 892.
+(luatex.def)             Requested size: 597.43054pt x 845.07513pt.
+File: PDF/talk_thema_ja.pdf Graphic file (type pdf)
+<use PDF/talk_thema_ja.pdf, page 1>
+Package luatex.def Info: PDF/talk_thema_ja.pdf , page1 used on input line 892.
+(luatex.def)             Requested size: 537.68384pt x 760.56245pt.
+
+
+[34]
+File: PDF/talk_thema_ja.pdf Graphic file (type pdf)
+<use PDF/talk_thema_ja.pdf, page 1>
+Package luatex.def Info: PDF/talk_thema_ja.pdf , page1 used on input line 892.
+(luatex.def)             Requested size: 537.68384pt x 760.56245pt.
+File: PDF/talk_thema_ja.pdf Graphic file (type pdf)
+<use PDF/talk_thema_ja.pdf, page 1>
+Package luatex.def Info: PDF/talk_thema_ja.pdf , page1 used on input line 892.
+(luatex.def)             Requested size: 537.68384pt x 760.56245pt.
+
+
+File: PDF/talk_thema_ja.pdf Graphic file (type pdf)
+<use PDF/talk_thema_ja.pdf, page 1>
+Package luatex.def Info: PDF/talk_thema_ja.pdf , page1 used on input line 892.
+(luatex.def)             Requested size: 537.68384pt x 760.56245pt.
+[35
+
+<./PDF/talk_thema_ja.pdf>]
+warning  (file PDF/questionnaire_1_ja.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.6', but at most version '1.5' allowed
+<PDF/questionnaire_1_ja.pdf, id=342, 597.55244pt x 845.0772pt>
+File: PDF/questionnaire_1_ja.pdf Graphic file (type pdf)
+<use PDF/questionnaire_1_ja.pdf>
+Package luatex.def Info: PDF/questionnaire_1_ja.pdf  used on input line 895.
+(luatex.def)             Requested size: 597.55098pt x 845.07513pt.
+
+warning  (file PDF/questionnaire_1_ja.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.6', but at most version '1.5' allowed
+File: PDF/questionnaire_1_ja.pdf Graphic file (type pdf)
+<use PDF/questionnaire_1_ja.pdf>
+Package luatex.def Info: PDF/questionnaire_1_ja.pdf  used on input line 895.
+(luatex.def)             Requested size: 597.55098pt x 845.07513pt.
+
+warning  (file PDF/questionnaire_1_ja.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.6', but at most version '1.5' allowed
+
+warning  (file PDF/questionnaire_1_ja.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.6', but at most version '1.5' allowed
+<PDF/questionnaire_1_ja.pdf, id=345, page=1, 597.55244pt x 845.0772pt>
+File: PDF/questionnaire_1_ja.pdf Graphic file (type pdf)
+<use PDF/questionnaire_1_ja.pdf, page 1>
+Package luatex.def Info: PDF/questionnaire_1_ja.pdf , page1 used on input line 895.
+(luatex.def)             Requested size: 597.55098pt x 845.07513pt.
+File: PDF/questionnaire_1_ja.pdf Graphic file (type pdf)
+<use PDF/questionnaire_1_ja.pdf, page 1>
+Package luatex.def Info: PDF/questionnaire_1_ja.pdf , page1 used on input line 895.
+(luatex.def)             Requested size: 537.79222pt x 760.56245pt.
+
+
+[36]
+File: PDF/questionnaire_1_ja.pdf Graphic file (type pdf)
+<use PDF/questionnaire_1_ja.pdf, page 1>
+Package luatex.def Info: PDF/questionnaire_1_ja.pdf , page1 used on input line 895.
+(luatex.def)             Requested size: 537.79222pt x 760.56245pt.
+File: PDF/questionnaire_1_ja.pdf Graphic file (type pdf)
+<use PDF/questionnaire_1_ja.pdf, page 1>
+Package luatex.def Info: PDF/questionnaire_1_ja.pdf , page1 used on input line 895.
+(luatex.def)             Requested size: 537.79222pt x 760.56245pt.
+
+
+File: PDF/questionnaire_1_ja.pdf Graphic file (type pdf)
+<use PDF/questionnaire_1_ja.pdf, page 1>
+Package luatex.def Info: PDF/questionnaire_1_ja.pdf , page1 used on input line 895.
+(luatex.def)             Requested size: 537.79222pt x 760.56245pt.
+[37
+
+<./PDF/questionnaire_1_ja.pdf>]
+warning  (file PDF/questionnaire_2_ja.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.6', but at most version '1.5' allowed
+<PDF/questionnaire_2_ja.pdf, id=398, 597.55244pt x 845.0772pt>
+File: PDF/questionnaire_2_ja.pdf Graphic file (type pdf)
+<use PDF/questionnaire_2_ja.pdf>
+Package luatex.def Info: PDF/questionnaire_2_ja.pdf  used on input line 898.
+(luatex.def)             Requested size: 597.55098pt x 845.07513pt.
+
+warning  (file PDF/questionnaire_2_ja.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.6', but at most version '1.5' allowed
+File: PDF/questionnaire_2_ja.pdf Graphic file (type pdf)
+<use PDF/questionnaire_2_ja.pdf>
+Package luatex.def Info: PDF/questionnaire_2_ja.pdf  used on input line 898.
+(luatex.def)             Requested size: 597.55098pt x 845.07513pt.
+
+warning  (file PDF/questionnaire_2_ja.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.6', but at most version '1.5' allowed
+
+warning  (file PDF/questionnaire_2_ja.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.6', but at most version '1.5' allowed
+<PDF/questionnaire_2_ja.pdf, id=401, page=1, 597.55244pt x 845.0772pt>
+File: PDF/questionnaire_2_ja.pdf Graphic file (type pdf)
+<use PDF/questionnaire_2_ja.pdf, page 1>
+Package luatex.def Info: PDF/questionnaire_2_ja.pdf , page1 used on input line 898.
+(luatex.def)             Requested size: 597.55098pt x 845.07513pt.
+File: PDF/questionnaire_2_ja.pdf Graphic file (type pdf)
+<use PDF/questionnaire_2_ja.pdf, page 1>
+Package luatex.def Info: PDF/questionnaire_2_ja.pdf , page1 used on input line 898.
+(luatex.def)             Requested size: 537.79222pt x 760.56245pt.
+
+
+[38]
+File: PDF/questionnaire_2_ja.pdf Graphic file (type pdf)
+<use PDF/questionnaire_2_ja.pdf, page 1>
+Package luatex.def Info: PDF/questionnaire_2_ja.pdf , page1 used on input line 898.
+(luatex.def)             Requested size: 537.79222pt x 760.56245pt.
+File: PDF/questionnaire_2_ja.pdf Graphic file (type pdf)
+<use PDF/questionnaire_2_ja.pdf, page 1>
+Package luatex.def Info: PDF/questionnaire_2_ja.pdf , page1 used on input line 898.
+(luatex.def)             Requested size: 537.79222pt x 760.56245pt.
+
+
+File: PDF/questionnaire_2_ja.pdf Graphic file (type pdf)
+<use PDF/questionnaire_2_ja.pdf, page 1>
+Package luatex.def Info: PDF/questionnaire_2_ja.pdf , page1 used on input line 898.
+(luatex.def)             Requested size: 537.79222pt x 760.56245pt.
+[39
+
 <./PDF/questionnaire_2_ja.pdf>]
 warning  (file PDF/questionnaire_2_ja.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.6', but at most version '1.5' allowed
-<PDF/questionnaire_2_ja.pdf, id=427, page=2, 597.55244pt x 845.0772pt>
+<PDF/questionnaire_2_ja.pdf, id=452, page=2, 597.55244pt x 845.0772pt>
 File: PDF/questionnaire_2_ja.pdf Graphic file (type pdf)
 <use PDF/questionnaire_2_ja.pdf, page 2>
-Package luatex.def Info: PDF/questionnaire_2_ja.pdf , page2 used on input line 739.
+Package luatex.def Info: PDF/questionnaire_2_ja.pdf , page2 used on input line 898.
 (luatex.def)             Requested size: 537.79222pt x 760.56245pt.
 File: PDF/questionnaire_2_ja.pdf Graphic file (type pdf)
 <use PDF/questionnaire_2_ja.pdf, page 2>
-Package luatex.def Info: PDF/questionnaire_2_ja.pdf , page2 used on input line 739.
+Package luatex.def Info: PDF/questionnaire_2_ja.pdf , page2 used on input line 898.
 (luatex.def)             Requested size: 537.79222pt x 760.56245pt.
 
 
 File: PDF/questionnaire_2_ja.pdf Graphic file (type pdf)
 <use PDF/questionnaire_2_ja.pdf, page 2>
-Package luatex.def Info: PDF/questionnaire_2_ja.pdf , page2 used on input line 739.
+Package luatex.def Info: PDF/questionnaire_2_ja.pdf , page2 used on input line 898.
 (luatex.def)             Requested size: 537.79222pt x 760.56245pt.
-[34
+[40
 
 <./PDF/questionnaire_2_ja.pdf>]
 warning  (file PDF/agreement.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.6', but at most version '1.5' allowed
-<PDF/agreement.pdf, id=431, 597.55244pt x 845.0772pt>
+<PDF/agreement.pdf, id=456, 597.55244pt x 845.0772pt>
 File: PDF/agreement.pdf Graphic file (type pdf)
 <use PDF/agreement.pdf>
-Package luatex.def Info: PDF/agreement.pdf  used on input line 742.
+Package luatex.def Info: PDF/agreement.pdf  used on input line 901.
 (luatex.def)             Requested size: 597.55098pt x 845.07513pt.
 
 warning  (file PDF/agreement.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.6', but at most version '1.5' allowed
 File: PDF/agreement.pdf Graphic file (type pdf)
 <use PDF/agreement.pdf>
-Package luatex.def Info: PDF/agreement.pdf  used on input line 742.
+Package luatex.def Info: PDF/agreement.pdf  used on input line 901.
 (luatex.def)             Requested size: 597.55098pt x 845.07513pt.
 
 warning  (file PDF/agreement.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.6', but at most version '1.5' allowed
 
 warning  (file PDF/agreement.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.6', but at most version '1.5' allowed
-<PDF/agreement.pdf, id=434, page=1, 597.55244pt x 845.0772pt>
+<PDF/agreement.pdf, id=459, page=1, 597.55244pt x 845.0772pt>
 File: PDF/agreement.pdf Graphic file (type pdf)
 <use PDF/agreement.pdf, page 1>
-Package luatex.def Info: PDF/agreement.pdf , page1 used on input line 742.
+Package luatex.def Info: PDF/agreement.pdf , page1 used on input line 901.
 (luatex.def)             Requested size: 597.55098pt x 845.07513pt.
 File: PDF/agreement.pdf Graphic file (type pdf)
 <use PDF/agreement.pdf, page 1>
-Package luatex.def Info: PDF/agreement.pdf , page1 used on input line 742.
+Package luatex.def Info: PDF/agreement.pdf , page1 used on input line 901.
 (luatex.def)             Requested size: 537.79222pt x 760.56245pt.
 
 
-[35]
+[41]
 File: PDF/agreement.pdf Graphic file (type pdf)
 <use PDF/agreement.pdf, page 1>
-Package luatex.def Info: PDF/agreement.pdf , page1 used on input line 742.
+Package luatex.def Info: PDF/agreement.pdf , page1 used on input line 901.
 (luatex.def)             Requested size: 537.79222pt x 760.56245pt.
 File: PDF/agreement.pdf Graphic file (type pdf)
 <use PDF/agreement.pdf, page 1>
-Package luatex.def Info: PDF/agreement.pdf , page1 used on input line 742.
+Package luatex.def Info: PDF/agreement.pdf , page1 used on input line 901.
 (luatex.def)             Requested size: 537.79222pt x 760.56245pt.
 
 
 File: PDF/agreement.pdf Graphic file (type pdf)
 <use PDF/agreement.pdf, page 1>
-Package luatex.def Info: PDF/agreement.pdf , page1 used on input line 742.
+Package luatex.def Info: PDF/agreement.pdf , page1 used on input line 901.
 (luatex.def)             Requested size: 537.79222pt x 760.56245pt.
-[36
+[42
 
 <./PDF/agreement.pdf>]
 warning  (file PDF/withdrawal.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.6', but at most version '1.5' allowed
-<PDF/withdrawal.pdf, id=458, 597.55244pt x 845.19765pt>
+<PDF/withdrawal.pdf, id=482, 597.55244pt x 845.19765pt>
 File: PDF/withdrawal.pdf Graphic file (type pdf)
 <use PDF/withdrawal.pdf>
-Package luatex.def Info: PDF/withdrawal.pdf  used on input line 745.
+Package luatex.def Info: PDF/withdrawal.pdf  used on input line 904.
 (luatex.def)             Requested size: 597.55098pt x 845.19559pt.
 
 warning  (file PDF/withdrawal.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.6', but at most version '1.5' allowed
 File: PDF/withdrawal.pdf Graphic file (type pdf)
 <use PDF/withdrawal.pdf>
-Package luatex.def Info: PDF/withdrawal.pdf  used on input line 745.
+Package luatex.def Info: PDF/withdrawal.pdf  used on input line 904.
 (luatex.def)             Requested size: 597.55098pt x 845.19559pt.
 
 warning  (file PDF/withdrawal.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.6', but at most version '1.5' allowed
 
 warning  (file PDF/withdrawal.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.6', but at most version '1.5' allowed
-<PDF/withdrawal.pdf, id=461, page=1, 597.55244pt x 845.19765pt>
+<PDF/withdrawal.pdf, id=485, page=1, 597.55244pt x 845.19765pt>
 File: PDF/withdrawal.pdf Graphic file (type pdf)
 <use PDF/withdrawal.pdf, page 1>
-Package luatex.def Info: PDF/withdrawal.pdf , page1 used on input line 745.
+Package luatex.def Info: PDF/withdrawal.pdf , page1 used on input line 904.
 (luatex.def)             Requested size: 597.55098pt x 845.19559pt.
 File: PDF/withdrawal.pdf Graphic file (type pdf)
 <use PDF/withdrawal.pdf, page 1>
-Package luatex.def Info: PDF/withdrawal.pdf , page1 used on input line 745.
+Package luatex.def Info: PDF/withdrawal.pdf , page1 used on input line 904.
 (luatex.def)             Requested size: 537.79222pt x 760.67087pt.
 
 
-[37]
+[43]
 File: PDF/withdrawal.pdf Graphic file (type pdf)
 <use PDF/withdrawal.pdf, page 1>
-Package luatex.def Info: PDF/withdrawal.pdf , page1 used on input line 745.
+Package luatex.def Info: PDF/withdrawal.pdf , page1 used on input line 904.
 (luatex.def)             Requested size: 537.79222pt x 760.67087pt.
 File: PDF/withdrawal.pdf Graphic file (type pdf)
 <use PDF/withdrawal.pdf, page 1>
-Package luatex.def Info: PDF/withdrawal.pdf , page1 used on input line 745.
+Package luatex.def Info: PDF/withdrawal.pdf , page1 used on input line 904.
 (luatex.def)             Requested size: 537.79222pt x 760.67087pt.
 
 
 File: PDF/withdrawal.pdf Graphic file (type pdf)
 <use PDF/withdrawal.pdf, page 1>
-Package luatex.def Info: PDF/withdrawal.pdf , page1 used on input line 745.
+Package luatex.def Info: PDF/withdrawal.pdf , page1 used on input line 904.
 (luatex.def)             Requested size: 537.79222pt x 760.67087pt.
-[38
+[44
 
 <./PDF/withdrawal.pdf>] (./thesis_mpd.aux)
  ***********
@@ -1517,19 +1556,19 @@ LaTeX Warning: There were undefined references.
 )
 
 Here is how much of LuaTeX's memory you used:
- 19807 strings out of 475630
- 244644,1144653 words of node,token memory allocated
- 1229 words of node memory still in use:
-   10 hlist, 2 vlist, 5 rule, 2 glue, 4 kern, 1 glyph, 190 attribute, 95 glue_spec, 28 attribute_list, 2 write, 13 user_defined nodes
-   avail lists: 1:40,2:73869,3:551,4:377,5:171,6:60,7:6140,8:69,9:2990,10:43,11:164
- 41895 multiletter control sequences out of 65536+600000
+ 19868 strings out of 475630
+ 244651,1144653 words of node,token memory allocated
+ 1253 words of node memory still in use:
+   10 hlist, 2 vlist, 5 rule, 2 glue, 4 kern, 1 glyph, 201 attribute, 95 glue_spec, 29 attribute_list, 2 write, 13 user_defined nodes
+   avail lists: 1:40,2:65261,3:480,4:377,5:181,6:80,7:5905,8:69,9:2889,10:44,11:169
+ 41941 multiletter control sequences out of 65536+600000
  62 fonts using 64495943 bytes
  125i,18n,128p,1918b,645s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman12-bold.otf><c:/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmmono10-regular.otf><c:/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman9-regular.otf><c:/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmsans12-regular.otf><c:/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmsans17-regular.otf><c:/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman10-bold.otf><c:/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman10-regular.otf><c:/texlive/2024/texmf-dist/fonts/opentype/public/haranoaji/HaranoAjiMincho-Regular.otf><c:/texlive/2024/texmf-dist/fonts/opentype/public/haranoaji/HaranoAjiGothic-Medium.otf>
-Output written on thesis_mpd.pdf (43 pages, 1981190 bytes).
+Output written on thesis_mpd.pdf (49 pages, 3081855 bytes).
 
-PDF statistics: 546 PDF objects out of 1000 (max. 8388607)
- 311 compressed objects within 4 object streams
+PDF statistics: 570 PDF objects out of 1000 (max. 8388607)
+ 323 compressed objects within 4 object streams
  0 named destinations out of 1000 (max. 131072)
  16 words of extra memory for PDF output out of 10000 (max. 100000000)
 
