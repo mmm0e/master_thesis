@@ -467,8 +467,9 @@ Q1のメッセージアプリのリアクション機能やスタンプ機能の
 \end{itemize}
 
 これらの変更により、プロトタイプの視認性や使用感を向上させ、より実験に適したメッセージアプリとして設計を完成させた。
-
-% アプリの変更箇所が分かるような画像
+\\
+\\
+（アプリの変更箇所が分かるような画像）\\
 % \begin{figure}[htbp]
 %     \begin{center}
 %         \includegraphics[width=50mm]{PDF/LINE_stamp.jpg}
@@ -518,6 +519,14 @@ Webブラウザ上でのメッセージ送受信を前提とし、基本的な�
 
 \begin{figure}[htbp]
     \begin{center}
+        \includegraphics[width=100mm]{PDF/zikken_gamen.jpg}
+        \caption{吹き出しに触れるとアニメーションが再生される様子}
+        \label{figure:zikken_gamen}
+    \end{center}
+\end{figure}
+
+\begin{figure}[htbp]
+    \begin{center}
         \includegraphics[width=150mm]{PDF/system_2.pdf}
         \caption{実験で使用するアプリケーションのシステム構成図}
         \label{figure:system}
@@ -532,10 +541,44 @@ Webブラウザ上でのメッセージ送受信を前提とし、基本的な�
 会話中に生じるような触れ合いが表現可能かを検証することを目的とする。実験では提案ツールを使用することで、
 相手に触れられた感覚（小突く・ツッコミ・つつく）がするか、また触れた際の感情の変化を調査する。
 実験は2人ずつ行い、5分の間自由にツールを使用してコミュニケーションを行ってもらう。
-その際、自分が相手の吹き出しに触れた際の感情、相手から自分の吹き出しに触れられた際相手からの感情を評価してもらう。
-ツール使用前後の相手への印象の変化、また、このような機能が実装された場合また使用したいと感じるかを調査した。
+その際、
+また、このような機能が実装された場合また使用したいと感じるかを調査した。
 
 \subsection{実験環境}
+筑波大学の総合研究棟D414室、D518を実験実施場所として使用する（図\ref{figure:D414}、\ref{figure:D518}）。
+
+\begin{figure}[htbp]
+    \begin{center}
+        \includegraphics[width=100mm]{PDF/D414.png}
+        \caption{総合研究棟D414室}
+        \label{figure:D414}
+    \end{center}
+\end{figure}
+
+\begin{figure}[htbp]
+    \begin{center}
+        \includegraphics[width=100mm]{PDF/D518.jpg}
+        \caption{総合研究棟D518室}
+        \label{figure:D518}
+    \end{center}
+\end{figure}
+
+実験参加者が到着した後、椅子に着席してもらい、実験説明・実施等を行う。
+部屋は遮光カーテンを閉めて部屋の照明をつけた状態とする。
+実験参加者は図\ref{figure:zikke_kankyo}のような環境で実験を行う。
+
+\begin{figure}[htbp]
+    \begin{center}
+        \includegraphics[width=100mm]{PDF/zikke_kankyo.jpg}
+        \caption{実験環境}
+        \label{figure:zikke_kankyo}
+    \end{center}
+\end{figure}
+
+実験についての説明後、実験参加者にはタブレットを渡し1人に別室に移ってもらった後、
+5分間メッセージアプリを使用して会話を行ってもらう。
+タブレットは10.1型HUAWEI MediaPad M5 lite、
+アプリケーションを表示するブラウザはGoogle Chromeを使用した。
 
 \subsection{実験手順}
 本実験では、以下の手順に基づいて実施した。\\
@@ -565,15 +608,117 @@ Webブラウザ上でのメッセージ送受信を前提とし、基本的な�
 アンケート終了後、協力者へのインタビューを行い、実験全体の感想や意見を聞く。
 その後、全ての実験手順を終了する。\\
 
+\begin{figure}[htbp]
+    \begin{center}
+        \includegraphics[width=100mm]{PDF/zikken_yousu.jpg}
+        \caption{実験の様子}
+        \label{figure:zikken_yousu}
+    \end{center}
+\end{figure}
+
 \subsection{評価項目}
+表\ref{table:zikken_sitsumon}に質問項目を示す。
+評価にはVAS法（Visual Analog Scale）を使用した\cite{Thesis_Takahashi1}\cite{Thesis_Takahashi2}。
+VAS法とは視覚的アナログ尺度と訳され、痛みなどを客観的に評価するために「無痛」から「最強の苦痛」までの表現を
+線分上に回答する方法である\cite{Thesis_vas}。今回は左端を「全く○○ではなかった」、
+右端を「非常に○○だった」などとする100mmの線分（回答用線分）上の任意のポイントを被験者に手書きで線を入れてもらった。
+そして、左端から縦線までの長さを10点満点に換算した。 
+自覚的な心理量測定には，一般的に段階尺度による評定法または量推定法が用いられることが多いが、
+VAS法は評価のステップ幅を被験者任せにするという点で後者に近い性質をもっている。
+本研究では「集団平均値の変動」だけでなく「個人内変動」も問題にしている。
+微細な個人内変動をデータ化することに意味があるといった観点から、段階尺度よりは量推定法の方が有効と考えられた。
+さらに、同一の調査を二度繰り返すという手続きには不可避的に記憶実験的な要素が入り込むため、
+具体的な数値を表出させる量推定法よりもその点を曖昧にしたアナログ尺度の方がより適切であると判断した。
+
+\vspace{\baselineskip} % 1行分のスペースを挿入
+\begin{table}[!ph]
+    \caption{実験で使用したメッセージアプリの機能に関する調査アンケート}
+    \label{table:zikken_sitsumon}
+    \vspace{5mm}
+    \centering
+    \begin{tabular}{p{1cm}p{12cm}} % 列幅を指定して長い内容を改行
+        \bhline
+         & 質問項目 \\ % 見出し行を追加
+        \hline
+        & （相手のメッセージの吹き出しに触れた時のことについて） \\
+        Q1 & 自分の感情が表現できたと感じるか \\
+        Q2 & 相手に自分の感情が伝わったと思うか \\
+        & （相手があなたの吹き出しに触れた時について） \\
+        Q3 & 自分自身が触れられたような感覚はあったか \\
+        Q4 & 小突かれたような感じがした \\
+        Q5 & ツッコミを受けたような感じがした \\
+        Q6 & 相手の感情が伝わってきたと感じたか \\
+        Q7 & 相手からのアクションに対し同じようにアクションを返したくなるか \\
+        & （ツールの使用感に関して） \\
+        Q8 & 機能が実装された場合また使用したいか \\
+        Q9 & このUIがあなたの普段使用しているメッセージアプリに実装された場合使ってみたいと思うか \\
+        \hline
+    \end{tabular}
+\end{table}
+
+\subsection{結果と分析}
+表\ref{table:zikken_kekka}に結果を示す。
+メッセージアプリの使用に関する質問項目間の関係性を調べるため、
+JASP\cite{book_JASP}を用いて無相関検定を実施した。この分析では、各質問項目間の相関を確認し、関連性があるかどうかを統計的に評価した。
+その結果、以下の項目間で0.1％水準で有意な強い正の相関が認められた。
+
+Q1（自分の感情が表現できたと感じるか）とQ2（相手に自分の感情が伝わったと感じるか）\\
+相関係数：r = X.XX（p < 0.05）\\
+
+Q1とQ7（つつかれたような感じがしたか）\\
+相関係数：r = X.XX（p < 0.05）\\
+
+Q2とQ7\\
+相関係数：r = X.XX（p < 0.05）\\
+
+Q3（相手の感情が伝わったと感じるか）とQ4（相手からのアクションに対し同じようにアクションを返したくなるか）\\
+相関係数：r = X.XX（p < 0.05）\\
+
+Q3とQ5（小突かれたような感じがしたか）\\
+相関係数：r = X.XX（p < 0.05）\\
+
+Q4とQ5\\
+相関係数：r = X.XX（p < 0.05）\\
+
+これらの結果は、特定の機能がユーザーの感情表現や相互作用にどのように影響を及ぼすかを示唆している。
+特に、アプリのアニメーションや触覚フィードバックが、感情表現や相手とのインタラクションに関連する可能性が示された。
+また、Q1とQ7、Q2とQ7の相関は、感情表現と触覚的なフィードバック
+（例：つつかれる感覚）が密接に関連していることを示している。
+同様に、Q3とQ4、Q3とQ5の相関は、相手の感情が伝わったと感じる要因が、
+インタラクションの動機づけや触覚的な体験に関連している可能性を示している。
+これらの知見は、提案したメッセージアプリの機能設計が、
+感情の伝達とコミュニケーションの質に与える影響を明らかにする重要な手がかりを提供している。
+
+\vspace{\baselineskip} % 1行分のスペースを挿入
+\begin{table}[!ph]
+    \caption{実験で使用したメッセージアプリの機能に関する調査アンケート結果}
+    \label{table:zikken_kekka}
+    \vspace{5mm}
+    \centering
+    \begin{tabular}{p{3cm}p{3cm}p{3cm}} % 列幅を指定して長い内容を改行
+        \bhline
+        質問項目 & M（平均） & SD（標準偏差） \\ % 見出し行を追加
+        \hline
+        Q1 & 5.80 & 1.99\\
+        Q2 & 5.83 & 2.01\\
+        Q3 & 4.99 & 2.46\\
+        Q4 & 5.90 & 2.20\\
+        Q5 & 5.79 & 2.55\\
+        Q6 & 5.01 & 2.32\\
+        Q7 & 5.58 & 1.97\\
+        Q8 & 7.43 & 1.71\\
+        Q9 & 7.83 & 1.58\\
+        Q10 \\
+        \hline
+    \end{tabular}
+    \vspace{1cm} % 表との間隔を調整
+    \parbox{0.55\textwidth}{\small ※小数点第3位以下は切り捨て}
+\end{table}
 
 
-\subsection{結果}
 
 
-
-\chapter{分析と考察}
-\subsection{分析方法}
+\chapter{考察}
 \subsection{考察}
 
 
@@ -681,8 +826,22 @@ Webブラウザ上でのメッセージ送受信を前提とし、基本的な�
     EmoBalloon - Conveying Emotional Arousal in Text Chats with Speech Balloons,
     In CHI Conference on Human Factors in Computing Systems, Article 527(CHI '22), 1–16, 2022.
 
-    % \bibitem{book1} % 本
-    % %  著者: 翻訳本のタイトル, 出版社, ページ数, 発行年.
+    \bibitem{Thesis_Takahashi1}
+    高橋晋也, 羽成隆司： 色嗜好表出における認知要因, 
+    日本色彩学会誌, 29(1), 14-23, 2005.
+
+    \bibitem{Thesis_Takahashi2}
+    羽成隆司，高橋晋也： 認知的操作がvisual analog scaleによる色嗜好測定に及ぼす効果：色好嫌の活性化課題を用いて, 
+    日本色彩学会誌, 28(0), 48-49, 2004.
+
+    \bibitem{Thesis_vas}
+    Timothy H. Monk： A visual analogue scale technique to measure global vigor and affect, 
+    Psychiatry Research, 27(1), 89-99, 1989. 
+
+    \bibitem{book_JASP} % 本
+    %  著者: 翻訳本のタイトル, 出版社, ページ数, 発行年.
+    清水優菜, 山本光：JASPで今すぐ始める統計解析入門 心理・教育・看護・社会系のために, 
+    講談社, 160p, 2022.
 
     % \bibitem{Book2} % 翻訳本
     % %  著者, 翻訳者（訳）: 翻訳本のタイトル, 出版社, ページ数, 発行年.
